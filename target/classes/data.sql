@@ -12603,5 +12603,3 @@ INSERT INTO gold_medal(id,year,city,sport,discipline,name,country,gender,event,s
 INSERT INTO gold_medal(id,year,city,sport,discipline,name,country,gender,event,season) VALUES (12401,2014,'Sochi','Skiing','Snowboard','KUMMER, Patrizia','Switzerland','Women','Giant Parall.S.','Winter');
 INSERT INTO gold_medal(id,year,city,sport,discipline,name,country,gender,event,season) VALUES (12402,2014,'Sochi','Skiing','Snowboard','FARRINGTON, Kaitlyn','United States','Women','Half-Pipe','Winter');
 INSERT INTO gold_medal(id,year,city,sport,discipline,name,country,gender,event,season) VALUES (12403,2014,'Sochi','Skiing','Snowboard','DUJMOVITS, Julia','Austria','Women','Parallel Slalom','Winter');
-INSERT INTO gold_medal(id,year,city,sport,discipline,name,country,gender,event,season) VALUES (12404,2014,'Sochi','Skiing','Snowboard','ANDERSON, Jamie','United States','Women','Slopestyle','Winter');
-INSERT INTO gold_medal(id,year,city,sport,discipline,name,country,gender,event,season) VALUES (12405,2014,'Sochi','Skiing','Snowboard','SAMKOVA, Eva','Czech Republic','Women','Snowboard Cross','Winter');

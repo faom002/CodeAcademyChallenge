@@ -13,6 +13,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/countries")
+@CrossOrigin("*")
 public class GoldMedalController {
         private final CountryRepository countryRepository;
         private final MedalRepository medalRepository;

@@ -3,9 +3,11 @@ package com.codecademy.goldmedal.model;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.Table;
 import java.math.BigDecimal;
 
 @Entity
+@Table(name = "Country")
 public class Country {
     @Id
     @GeneratedValue
